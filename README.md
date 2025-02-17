@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/daa23ca3-85d4-4dab-9fd2-4fca04c31d9b)# 微信自动化消息发送工具
+# 微信自动化消息发送工具
 
 ## 简介
 
